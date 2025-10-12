@@ -41,6 +41,7 @@ diabetes-powerbi/
 │   └── imagens_dos_dashboards/
 ├── relatorio.pbix
 └── insights.md
+```
 
 ## 📈 Resultados Esperados
 
