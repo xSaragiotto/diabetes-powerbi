@@ -1,6 +1,6 @@
 ## 📊 Gráfico: Diagnóstico por Faixa de Risco
 
-![Diagnóstico por Faixa de Risco](../assets/grafico3.png)
+![Diagnóstico por Faixa de Risco](../assets/grafico3.jpg)
 
 Este gráfico apresenta a contagem de pacientes agrupados por faixa de risco (`FaixaRisco`), segmentados pelo diagnóstico de diabetes (`Outcome`). Cada barra representa uma faixa de risco (Baixo, Médio, Alto) e está dividida por cor conforme o valor de `Outcome`:
 
