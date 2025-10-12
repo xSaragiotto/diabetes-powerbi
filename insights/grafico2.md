@@ -1,6 +1,6 @@
 ## 📈 Gráfico: Distribuição de Diagnóstico por Faixa Etária
 
-![Distribuição de Diagnóstico por Faixa Etária](assets/imagens_dos_dashboards/faixa_etaria_glicose.png)
+![Distribuição de Diagnóstico por Faixa Etária](assets/grafico2.png)
 
 Este gráfico de linhas compara os níveis médios de glicose entre diferentes faixas etárias, segmentando os dados por diagnóstico de diabetes (`Outcome`). Ele ajuda a visualizar como a glicemia varia com a idade e se há diferenças significativas entre os grupos com e sem diabetes.
 
