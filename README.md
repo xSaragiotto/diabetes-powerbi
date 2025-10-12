@@ -32,14 +32,15 @@ A base utilizada foi obtida no [Kaggle](https://www.kaggle.com/datasets/akshayda
 
 ## 📌 Estrutura do Repositório
 
-diabetes-powerbi/ 
-├── README.md 
-├── data/ │
-└── diabetes.csv 
-├── assets/ 
-│ └── imagens_dos_dashboards/ 
-├── relatorio.pbix 
-  └── insights.md
+```plaintext
+diabetes-powerbi/
+├── README.md
+├── data/
+│   └── diabetes.csv
+├── assets/
+│   └── imagens_dos_dashboards/
+├── relatorio.pbix
+└── insights.md
 
 ## 📈 Resultados Esperados
 
