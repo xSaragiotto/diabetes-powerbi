@@ -2,6 +2,8 @@
 
 Este gráfico apresenta a contagem de pacientes agrupados por faixa etária, segmentados pelo diagnóstico de diabetes (`Outcome`). Utilizamos um gráfico de barras horizontais para facilitar a comparação entre os grupos.
 
+![Gráfico de Diabetes](../assets/grafico1.jpg)
+
 ### 🔍 Objetivo
 
 Visualizar como a incidência de diabetes varia entre diferentes faixas etárias, identificando possíveis padrões ou grupos de risco.
