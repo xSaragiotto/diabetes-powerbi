@@ -37,9 +37,9 @@ diabetes-powerbi/
 ├── README.md
 ├── data/
 │   └── diabetes.csv
+│   └── relatorio.pbix
 ├── assets/
 │   └── imagens_dos_dashboards/
-├── relatorio.pbix
 └── insights.md
 ```
 
