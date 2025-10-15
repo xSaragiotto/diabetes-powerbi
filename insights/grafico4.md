@@ -1,6 +1,8 @@
 📊 **Gráfico: Indicadores Clínicos por Faixa Etária**  
 Indicadores Clínicos por Faixa Etária
 
+![Gráfico de Glicose](../assets/grafico4.jpg)
+
 Este gráfico apresenta a mediana de três variáveis clínicas — glicose (Glucose), pressão arterial (BloodPressure) e insulina (Insulin) — agrupadas por idade (Age). Cada faixa etária é representada por três elementos visuais:
 
 - Barras vermelhas: Mediana de glicose  
